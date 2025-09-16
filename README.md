@@ -24,6 +24,7 @@ DAX: Custom measures for KPIs (e.g., Total Sales, Average Order Value, Profit Ma
 Visualization: Interactive charts, slicers, and KPIs.
 
 #🌍 Diversity & Inclusion Analysis & Dashboard (Power BI)
+
 #📌 Project Overview
 
 This project focuses on analyzing Diversity & Inclusion (D&I) data using Power BI to uncover patterns in workforce representation, gender balance, pay equity, and career progression. The dataset was cleaned, modeled, and transformed into an interactive dashboard that helps organizations monitor progress toward diversity goals and make data-driven HR decisions.
@@ -61,6 +62,7 @@ Age group analysis highlighted that younger employees were concentrated in entry
 Ethnic diversity was stronger at junior levels but declined in higher managerial positions.
 
 #🗽 New York City Rolling Sales Analysis & Dashboard (Power BI)
+
 #📌 Project Overview
 
 This project analyzes New York City rolling sales data using Power BI to understand real estate sales patterns, property values, and neighborhood trends across NYC. The dataset was cleaned, modeled, and visualized into an interactive dashboard that provides deep insights for property investors, analysts, and policymakers.
