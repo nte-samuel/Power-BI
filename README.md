@@ -3,7 +3,7 @@
 This project explores Amazon sales data using Power BI to generate insights on revenue, customer behavior, and product performance. The dataset was cleaned and modeled, then transformed into an interactive dashboard that allows stakeholders to easily track sales performance and make data-driven decisions.
 # Dashborad
 <img width="1081" height="609" alt="amazon " src="https://github.com/user-attachments/assets/b561d514-1d38-4db9-85b6-0561266e17e3" />
-# 🔑 Objectives
+## 🔑 Objectives
 
 Clean, transform, and model the raw Amazon sales dataset.
 
