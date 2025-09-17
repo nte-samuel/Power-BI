@@ -1,3 +1,10 @@
+# Table Of Contents
+[Amazon Sales Analysis](https://github.com/nte-samuel/Power-BI/blob/main/README.md#%EF%B8%8F-amazon-sales-analysis--dashboard-power-bi)
+
+[Diversity & Inclusion Analysis](https://github.com/nte-samuel/Power-BI/blob/main/README.md#-diversity--inclusion-analysis--dashboard-power-bi)
+
+[New York City Rolling Sales Analysis](https://github.com/nte-samuel/Power-BI/blob/main/README.md#-new-york-city-rolling-sales-analysis--dashboard-power-bi)
+
 # 🛍️ Amazon Sales Analysis & Dashboard (Power BI)
 # Project Overview
 This project explores Amazon sales data using Power BI to generate insights on revenue, customer behavior, and product performance. The dataset was cleaned and modeled, then transformed into an interactive dashboard that allows stakeholders to easily track sales performance and make data-driven decisions.
